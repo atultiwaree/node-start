@@ -1,0 +1,23 @@
+{
+  "name": "nodio",
+  "version": "1.0.0",
+  "description": "Starting up of node",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atultiwaree/node-start.git"
+  },
+  "keywords": [
+    "node",
+    "react"
+  ],
+  "author": "Atul Tiwaree",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atultiwaree/node-start/issues"
+  },
+  "homepage": "https://github.com/atultiwaree/node-start#readme"
+}
